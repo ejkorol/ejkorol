@@ -26,6 +26,7 @@ Welcome to my GitHub profile
 ## Projects
 
 - [**Lucid**](https://github.com/ejkorol/jason-korol-capstone) - (im)proved dream journal | Brainstation 2024 Capstone Project
+- [**Minecraft API**](https://github.com/ejkorol/recipe-book) - Named after the in-game mechanic for looking up recipes and ingredients | Open Source Minecraft API
 
 ## Connect with Me
 
