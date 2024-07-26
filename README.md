@@ -5,7 +5,7 @@ Welcome to my GitHub profile
 ## About Me
 
 - 🌱 Currently exploring: Rust :D
-- 🔭 Working on: ![Lucid](https://github.com/ejkorol/jason-korol-capstone)
+- 🔭 Working on: [**Lucid**](https://github.com/ejkorol/jason-korol-capstone)
 - ✨ Interests: LLMs, Server Side Rendering, How to make simpler lives in a world full of complex technologies
 
 ## Skills
