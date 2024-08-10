@@ -44,11 +44,11 @@ Welcome to my GitHub profile
 
 ## Connect with Me
 
-[**Portfolio**](https://jasonkorol.ca)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejkorol@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-korol/)
+- [**Portfolio**](https://jasonkorol.ca)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejkorol@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-korol/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ejkorol&style=flat-square)
+- ![Profile Views](https://komarev.com/ghpvc/?username=ejkorol&style=flat-square)
 
 ## Currently Learning
 
