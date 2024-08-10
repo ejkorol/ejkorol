@@ -38,11 +38,13 @@ Welcome to my GitHub profile
 
 ## Projects
 
+- [**Craftle**](https://github.com/ejkorol/craftle) - A Minecraft inspired Wordle clone
 - [**Lucid**](https://github.com/ejkorol/jason-korol-capstone) - (im)proved dream journal | Brainstation 2024 Capstone Project
 - [**Minecraft API**](https://github.com/ejkorol/recipe-book) - Named after the in-game mechanic for looking up recipes and ingredients | Open Source Minecraft API
 
 ## Connect with Me
 
+[**Portfolio**](https://jasonkorol.ca)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejkorol@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-korol/)
 
