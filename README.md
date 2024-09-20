@@ -17,14 +17,15 @@ Welcome to my GitHub profile
 
 ## About Me
 
-- 🌱 Currently exploring: Rust :D
-- 🔭 Working on: [**Lucid**](https://github.com/ejkorol/jason-korol-capstone), [**Craftle**](https://github.com/ejkorol/craftle)
+- 🌱 Currently exploring: Rust & React Native
+- 🔭 Working on: [**Lucid V2**](https://github.com/ejkorol/lucid-expo),
 - ✨ Interests: LLMs, Server Side Rendering, How to make simpler lives in a world full of complex technologies
 
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -35,11 +36,13 @@ Welcome to my GitHub profile
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Projects
 
 - [**Craftle**](https://github.com/ejkorol/craftle) - A Minecraft inspired Wordle clone
 - [**Lucid**](https://github.com/ejkorol/jason-korol-capstone) - (im)proved dream journal | Brainstation 2024 Capstone Project
+- [**Lucid V2**](https://github.com/ejkorol/lucid-expo) - (im)proved dream journal (v2) | Native Redesign of Lucid V1
 - [**Minecraft API**](https://github.com/ejkorol/recipe-book) - Named after the in-game mechanic for looking up recipes and ingredients | Open Source Minecraft API
 
 ## Connect with Me
@@ -53,6 +56,6 @@ Welcome to my GitHub profile
 ## Currently Learning
 
 - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-- ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Zen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY3cGo5cTJhZm0zcjN5aTdqdDUzM3V2bDNyZm5ienVxeGFvZmVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8mvV5eUXkM18iCm5Eg/giphy.gif)
