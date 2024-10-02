@@ -21,6 +21,8 @@ Welcome to my GitHub profile
 - 🔭 Working on: [**Lucid V2**](https://github.com/ejkorol/lucid-expo),
 - ✨ Interests: LLMs, Server Side Rendering, How to make simpler lives in a world full of complex technologies
 
+_(I'm not that interesting tbh)_
+
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,6 +39,7 @@ Welcome to my GitHub profile
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ## Projects
 
@@ -44,6 +47,8 @@ Welcome to my GitHub profile
 - [**Lucid**](https://github.com/ejkorol/jason-korol-capstone) - (im)proved dream journal | Brainstation 2024 Capstone Project
 - [**Lucid V2**](https://github.com/ejkorol/lucid-expo) - (im)proved dream journal (v2) | Native Redesign of Lucid V1
 - [**Minecraft API**](https://github.com/ejkorol/recipe-book) - Named after the in-game mechanic for looking up recipes and ingredients | Open Source Minecraft API
+- [**Dot Clock**](https://github.com/ejkorol/dock) - It's a clock made of dots ?
+- [**GraphQl Weather**](https://github.com/ejkorol/graphql-weather-client) - Weather from GraphQL, Pothos and Apollo
 
 ## Connect with Me
 
