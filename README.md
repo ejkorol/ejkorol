@@ -47,8 +47,11 @@ _(I'm not that interesting tbh)_
 - [**Lucid**](https://github.com/ejkorol/jason-korol-capstone) - (im)proved dream journal | Brainstation 2024 Capstone Project
 - [**Lucid V2**](https://github.com/ejkorol/lucid-expo) - (im)proved dream journal (v2) | Native Redesign of Lucid V1
 - [**Minecraft API**](https://github.com/ejkorol/recipe-book) - Named after the in-game mechanic for looking up recipes and ingredients | Open Source Minecraft API
-- [**Dot Clock**](https://github.com/ejkorol/dock) - It's a clock made of dots ?
 - [**GraphQl Weather**](https://github.com/ejkorol/graphql-weather-client) - Weather from GraphQL, Pothos and Apollo
+
+## Small Stuffs
+- [**Dot Clock**](https://github.com/ejkorol/dock) - It's a clock made of dots ?
+- [**Cipher Text**](https://github.com/ejkorol/cipher-text) - The Matrix is telling my brain that it is juicy and delicious
 
 ## Connect with Me
 
