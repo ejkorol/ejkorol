@@ -1,18 +1,17 @@
 ```ts
 {
        name: "Jason",
-       bio: "How do we make our lives simpler in a world full of complex technologies?",
-
-       projects: [
-              [ "Craftle", "https://github.com/ejkorol/craftle" ],
-              [ "Lucid", "https://github.com/ejkorol/jason-korol-capston" ],
-              [ "Miso", "https://github.com/ejkorol/lucid-expo" ],
-              [ "Minecraft API", `[Link](https://github.com/ejkorol/recipe-book)` ]
-       ],
-
-       experiments: [
-              [ "Dot Clock", "https://www.github.com/ejkorol/dock" ],
-              [ "Cipher Text", "https://www.github.com/ejkorol/cipher-text" ]
-       ]
+       bio: "How do we make our lives simpler in a world full of complex technologies?"
 }
 ```
+
+**Projects**
+[Craftle](https://www.github.com/ejkorol/craftle)
+[Lucid](https://www.github.com/ejkorol/jason-korol-capstone)
+[Miso](https://www.github.com/ejkorol/lucid-expo)
+[Minecraft API](https://www.github.com/ejkorol/recipe-book)
+
+**Experiments**
+[Cipher Text](https://www.github.com/ejkorol/cipher-text)
+[Dot Clock](https://www.github.com/ejkorol/dock)
+[Weather](https://www.github.com/ejkorol/graphql-weather-client)
