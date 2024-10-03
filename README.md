@@ -7,7 +7,7 @@
               [ "Craftle", "https://github.com/ejkorol/craftle" ],
               [ "Lucid", "https://github.com/ejkorol/jason-korol-capston" ],
               [ "Miso", "https://github.com/ejkorol/lucid-expo" ],
-              [ "Minecraft API", "https://github.com/ejkorol/recipe-book" ]
+              [ "Minecraft API", `[Link](https://github.com/ejkorol/recipe-book)` ]
        ],
 
        experiments: [
