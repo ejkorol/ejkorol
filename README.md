@@ -14,6 +14,7 @@
 
 **Experiments**
 
+- [`Adaptive Precision`](https://www.github.com/ejkorol/adaptive-precision)
 - [`SVG Graph`](https://www.github.com/ejkorol/svg-graph)
 - [`Cipher Text`](https://www.github.com/ejkorol/cipher-text)
 - [`Dot Clock`](https://www.github.com/ejkorol/dock)
