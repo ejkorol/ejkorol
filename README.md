@@ -18,4 +18,5 @@
 - [`SVG Graph`](https://www.github.com/ejkorol/svg-graph)
 - [`Cipher Text`](https://www.github.com/ejkorol/cipher-text)
 - [`Dot Clock`](https://www.github.com/ejkorol/dock)
+- [`ASCII Torus`](https://www.github.com/ejkorol/ascii-fiber)
 - [`Weather`](https://www.github.com/ejkorol/graphql-weather-client)
