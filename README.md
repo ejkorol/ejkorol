@@ -16,6 +16,7 @@
 
 - [`Adaptive Precision`](https://www.github.com/ejkorol/adaptive-precision)
 - [`SVG Graph`](https://www.github.com/ejkorol/svg-graph)
+- [`Grid System`](https://www.github.com/ejkorol/grid-system)
 - [`Switchboard Stars`](https://github.com/ejkorol/switchboard-stars)
 - [`Cipher Text`](https://www.github.com/ejkorol/cipher-text)
 - [`Dot Clock`](https://www.github.com/ejkorol/dock)
