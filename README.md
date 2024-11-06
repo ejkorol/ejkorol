@@ -15,6 +15,7 @@
 **Experiments**
 
 - [`Adaptive Precision`](https://www.github.com/ejkorol/adaptive-precision)
+- [`Adaptive Precision Image Expansion`](https://github.com/ejkorol/adaptive-precision-image-expansion)
 - [`SVG Graph`](https://www.github.com/ejkorol/svg-graph)
 - [`Grid System`](https://www.github.com/ejkorol/grid-system)
 - [`Switchboard Stars`](https://github.com/ejkorol/switchboard-stars)
