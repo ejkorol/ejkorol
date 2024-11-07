@@ -11,6 +11,7 @@
 - [`Lucid`](https://www.github.com/ejkorol/jason-korol-capstone)
 - [`Miso`](https://www.github.com/ejkorol/lucid-expo)
 - [`Minecraft API`](https://www.github.com/ejkorol/recipe-book)
+- [`Weather`](https://www.github.com/ejkorol/graphql-weather-client)
 
 **Experiments**
 
@@ -22,4 +23,3 @@
 - [`Cipher Text`](https://www.github.com/ejkorol/cipher-text)
 - [`Dot Clock`](https://www.github.com/ejkorol/dock)
 - [`ASCII Torus`](https://www.github.com/ejkorol/ascii-fiber)
-- [`Weather`](https://www.github.com/ejkorol/graphql-weather-client)
